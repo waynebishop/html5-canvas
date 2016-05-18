@@ -12,7 +12,17 @@ shapesContext.fillStyle = 'rgba(100,0,0,.5)';
 shapesContext.fillRect(10, 50, 100, 150);
 
 shapesContext.strokeStyle = '#333333';
-shapesContext.lineWidth = 10;
-shapesContext.moveTo(50, 250);
-shapesContext.lineTo(100, 250);
+shapesContext.lineWidth = 2;
+shapesContext.moveTo(50, 150);
+shapesContext.lineTo(100, 150);
+shapesContext.lineTo(120, 170);
+shapesContext.lineTo(140, 130);
 shapesContext.stroke();
+
+
+
+
+
+
+
+
